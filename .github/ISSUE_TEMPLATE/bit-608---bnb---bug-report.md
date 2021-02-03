@@ -1,5 +1,5 @@
 ---
-name: BIT 608 - BNB - Bug report
+name: BIT 608 - BNB - Bug REPORT
 about: Help BNB improve by reporting
 title: ''
 labels: ''
